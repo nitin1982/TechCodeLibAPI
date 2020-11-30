@@ -1,0 +1,9 @@
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.Infrastructure\bin\Debug\netcoreapp3.1\TechCodeLib.Infrastructure.deps.json
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.Infrastructure\bin\Debug\netcoreapp3.1\TechCodeLib.Infrastructure.dll
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.Infrastructure\bin\Debug\netcoreapp3.1\TechCodeLib.Infrastructure.pdb
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.Infrastructure\obj\Debug\netcoreapp3.1\TechCodeLib.Infrastructure.csprojAssemblyReference.cache
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.Infrastructure\obj\Debug\netcoreapp3.1\TechCodeLib.Infrastructure.AssemblyInfoInputs.cache
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.Infrastructure\obj\Debug\netcoreapp3.1\TechCodeLib.Infrastructure.AssemblyInfo.cs
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.Infrastructure\obj\Debug\netcoreapp3.1\TechCodeLib.Infrastructure.csproj.CoreCompileInputs.cache
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.Infrastructure\obj\Debug\netcoreapp3.1\TechCodeLib.Infrastructure.dll
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.Infrastructure\obj\Debug\netcoreapp3.1\TechCodeLib.Infrastructure.pdb

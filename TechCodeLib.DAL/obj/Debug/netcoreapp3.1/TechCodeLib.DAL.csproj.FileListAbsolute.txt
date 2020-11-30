@@ -1,0 +1,12 @@
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\bin\Debug\netcoreapp3.1\TechCodeLib.DAL.deps.json
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\bin\Debug\netcoreapp3.1\TechCodeLib.DAL.dll
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\obj\Debug\netcoreapp3.1\TechCodeLib.DAL.csprojAssemblyReference.cache
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\obj\Debug\netcoreapp3.1\TechCodeLib.DAL.AssemblyInfoInputs.cache
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\obj\Debug\netcoreapp3.1\TechCodeLib.DAL.AssemblyInfo.cs
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\bin\Debug\netcoreapp3.1\TechCodeLib.DAL.runtimeconfig.json
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\bin\Debug\netcoreapp3.1\TechCodeLib.DAL.runtimeconfig.dev.json
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\bin\Debug\netcoreapp3.1\TechCodeLib.DAL.pdb
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\obj\Debug\netcoreapp3.1\TechCodeLib.DAL.dll
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\obj\Debug\netcoreapp3.1\TechCodeLib.DAL.pdb
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\obj\Debug\netcoreapp3.1\TechCodeLib.DAL.genruntimeconfig.cache
+C:\tech-code-lib\API\TechCodeLibSln\TechCodeLib.DAL\obj\Debug\netcoreapp3.1\TechCodeLib.DAL.csproj.CoreCompileInputs.cache
